@@ -8,4 +8,4 @@ const config = {
   },
 }
 
-module.exports = withBundleAnalyzer(config)
+module.exports = withBundleAnalyzer(config);
